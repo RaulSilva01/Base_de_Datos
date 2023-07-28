@@ -4,21 +4,36 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
-
-2. Menciona 3 tipos de datos que existen: (valor .85)
-
-
-3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-
-4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-
-5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
+   R: Select: consultar registros de un criterio determinado
+      Insert: cargar los lotes de datos en una única operación
+      Update: modifica los valores de los campos y registros
+      Delete: Elimina registros de una tabla
 
 
-6. Defina brevemente el significado de las siglas SQL(valor .85)
+3. Menciona 3 tipos de datos que existen: (valor .85)
+  R:  Los datos son atómicos
+      Los datos son de un solo tipo.
+      Los datos explícitos.
 
 
-7. Defina brevemente qué es MySQL WorkBench (valor .85)
+4. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
+  R:  Truncate: elimina TODOS los registros de la tabla (todas las filas)
+      Delete: elimina REGISTROS de la tabla (filas)
+
+5. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+  R: Establece datos que no se puedan repetir.
+6. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
+  R:  Char-longitud fija, con un numero especificado.
+      Varchar-longitud variable con un un numero máximo indicado
+
+
+7. Defina brevemente el significado de las siglas SQL(valor .85)
+  R: Structured Query Language es un lenguaje estándar e interactivo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones en ellas         y brinda la posibilidad de realizar consultas con un lenguaje de comandos que permite seleccionar, insertar, actualizar, ubicar datos, y más.
+
+8. Defina brevemente qué es MySQL WorkBench (valor .85)
+  R: Editor visual con respaldo oficial de MySQL. 
+      Tiene editor de diagramas; elementos desde un catálogo para ser añadirlos que se pueden exportar en imagen o PDF o generar un script SQL 
+
 
 ## Práctica 5.
 ### Gestores de base de datos
