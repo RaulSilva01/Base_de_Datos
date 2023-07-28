@@ -63,3 +63,7 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+
+![image](https://github.com/RaulSilva01/Base_de_Datos/assets/111548040/4e7e4313-866f-4326-b1cc-80008e2bd8b3)
+
