@@ -11,9 +11,10 @@ Ejercicio:
 
 
 3. Menciona 3 tipos de datos que existen: (valor .85)
-  R:  Los datos son atómicos
-      Los datos son de un solo tipo.
-      Los datos explícitos.
+  R:  1.	int	Cantidad entera
+      2.	char	Carácter
+      3.	double	Almacena valores reales en doble precisión.
+
 
 
 4. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
