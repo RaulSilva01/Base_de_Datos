@@ -8,6 +8,7 @@ su esquema
 Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
+R: Un Data Warehouse es un almacén electrónico donde generalmente una empresa u organización mantiene una gran cantidad de información. Los datos de un data warehouse deben almacenarse de forma segura, fiable, fácil de recuperar y fácil de administrar.
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
