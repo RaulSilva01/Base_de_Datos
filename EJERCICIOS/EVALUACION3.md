@@ -39,4 +39,12 @@ precio medio y el número total de productos de los fabricantes que tienen un pr
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
 
+
+
 https://www.db-fiddle.com/f/nKL3VNjxgQw312oNdN4p8q/1
+
+
+
+
+
+
