@@ -46,3 +46,9 @@ sobre la tabla alumnos y verifica que los triggers se están ejecutando
 correctamente.
 
 https://www.db-fiddle.com/f/cvxxzQQ8ELMLJYYF5xMn4x/0
+
+
+FINAL
+https://www.db-fiddle.com/f/6WNTFxccKF81ipepykWH2m/1
+
+
