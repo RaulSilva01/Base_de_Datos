@@ -34,3 +34,9 @@ un código de categoría único.
 
 https://www.db-fiddle.com/f/gu1YDXuDS1C8RXf7aW414h/0
 
+![image](https://github.com/RaulSilva01/Base_de_Datos/assets/111548040/10af2f25-cdcb-4702-9d79-0a9aa50dc340)
+
+
+
+
+
